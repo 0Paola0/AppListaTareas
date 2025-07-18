@@ -12,4 +12,4 @@
         android:hint="Nombre de la tarea"
         android:minHeight="48dp" />
 
-</LinearLayout> 
+</LinearLayout>
