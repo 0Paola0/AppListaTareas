@@ -25,8 +25,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 
 ## Imágenes
 
-```markdown
 ![Pantalla de inicio](img/inicio.jpg)
 ![Agregar una tarea](img/nueva.jpg)
 ![Editar una tarea](img/editar.jpg)
-```
+
