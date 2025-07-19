@@ -25,9 +25,6 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 
 ## Imágenes
 
-Agrega aquí capturas de pantalla o imágenes relevantes de la aplicación.  
-Para insertar una imagen, usa la siguiente sintaxis en Markdown:
-
 ```markdown
 ![Pantalla de inicio](img/inicio.jpg)
 ![Agregar una tarea](img/nueva.jpg)
