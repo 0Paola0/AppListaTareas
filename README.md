@@ -25,7 +25,13 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 
 ## Imágenes
 
-![Pantalla de inicio](img/inicio.jpg)
-![Agregar una tarea](img/nueva.jpg)
-![Editar una tarea](img/editar.jpg)
+1. **Pantalla de inicio**
+
+<img src="img/inicio.jpg" width="200"/>
+
+2. **Agregar nueva tarea**
+<img src="img/nueva.jpg" width="200"/>
+
+3. **Editar una tarea**
+<img src="img/editar.jpg" width="200"/>
 
