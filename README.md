@@ -36,4 +36,4 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu entorno local:
 <img src="img/editar.jpg" width="200"/>
 
 3. **Tareas Completadas**
-<img src="img/Tareas.Completadas.jpg" width="200"/>
+<img src="img/Tareas.Completadas.jpeg" width="200"/>
